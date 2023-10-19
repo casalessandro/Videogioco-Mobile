@@ -9,4 +9,5 @@ EditorBuildSettings:
     path: Assets/Pixel Adventure 1/Scenes/Demo.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: af0379fd12528634f9911806422b4488, type: 2}
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 414832210fae66b4598b301683f636e9, type: 2}
